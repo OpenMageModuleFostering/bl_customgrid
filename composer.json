@@ -1,17 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/BL_CustomGrid",
-    "type": "magento-module",
-    "license": "Open-Source-License",
-    "homepage": "",
-    "description": "Allows to customize all admin grids and add to it lots of useful features and new columns.
-With an in-grid editor, to update values directly from the grids.",
-    "authors": [
-    {
-        "name": "Beno\u00eet Leulliette",
-        "email": "benoit.leulliette@gmail.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
